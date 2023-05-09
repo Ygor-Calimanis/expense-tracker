@@ -1,16 +1,11 @@
-# expense_tracker_fiap
+# expense_tracker
 
-A new Flutter project.
+Expense Tracker
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+Desenvolvimento de um aplicativo de gerenciamento de despesas em flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Development of an expense tracker app
